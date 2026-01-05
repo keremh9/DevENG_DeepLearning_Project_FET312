@@ -20,9 +20,10 @@ Final teslimi kapsamında yüklenen dosyaların açıklamaları aşağıdadır:
 | :--- | :--- |
 | `MEHMET_KEREM_HAKAN_23040301045_DevENG_ProjectReport.pdf` | **Final Proje Raporu** (Projenin tüm detaylarını, yöntemlerini ve sonuçlarını içeren ana rapor). |
 | `MEHMET_KEREM_HAKAN_23040301045_DevENG_ProjectSunum.pdf` | **Proje Sunumu** (Sunum slaytları). |
-| `MEHMET_KEREM_HAKAN_23040301045_DevENG.ipynb` | **Kerem'in Kod Dosyası** (SimpleCNN Baseline + ResNet18 Frozen & Fine-Tune modellerini içerir). |
-| `MUSTAFA_OZBEZEK_23040301067_DevENG.ipynb` | **Mustafa'nın Kod Dosyası** (SimpleCNN Baseline + EfficientNet-B0 + MobileNetV3 modellerini içerir). |
-| `MUSTAFA_OZBEZEK_23040301067_DevENG_ProjectReport.pdf` | (Yedek) Final Proje Raporu kopyası. |
+| `MEHMET_KEREM_HAKAN_23040301045_DevENG.ipynb` | **Kerem'in Kod Dosyası** (ResNet18 Frozen & Fine-Tune modellerini içerir). |
+| `MUSTAFA_OZBEZEK_23040301067_DevENG_1.ipynb` | **Mustafa'nın Kod Dosyası** (EfficientNet-B0 modellerini içerir). |
+| `MUSTAFA_OZBEZEK_23040301067_DevENG_2.ipynb` | **Mustafa'nın Kod Dosyası** (MobileNetV3 modellerini içerir). |
+
 
 ---
 
